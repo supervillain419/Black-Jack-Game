@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url("bj_background.jpg");
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+
+#dealer-cards img, #your-cards img  {
+    height: 175px;
+    width: 125px;
+    margin: 1px;
+}
+
+#hit, #stay {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}
